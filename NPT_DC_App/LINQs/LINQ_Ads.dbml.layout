@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="LINQ_Ads">
+  <DataContextMoniker Name="/LINQ_AdsDataContext" />
+  <nestedChildShapes>
+    <classShape Id="81aa7c32-4463-408a-a4d0-22509e7b5bd3" absoluteBounds="4, 1.125, 2, 1.2680840890606242">
+      <DataClassMoniker Name="/LINQ_AdsDataContext/SYS_Ads" />
+      <nestedChildShapes>
+        <elementListCompartment Id="f2ed1dec-32cd-4dc6-888e-7326ec4ee2fa" absoluteBounds="4.015, 1.585, 1.9700000000000002, 0.70808408906062437" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
